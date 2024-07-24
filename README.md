@@ -124,4 +124,4 @@ The boilerplate project is a Next.js application with the following structure:
  ┗ 📜package.json
 ```
 
-Start editing the `pages/index.jsx` file to customize the project according to your own needs!
+Start editing the `pages/index.jsx` file to customize the project according to your own needs! and visit [fruit chat](https://fruit-chat.com/)
